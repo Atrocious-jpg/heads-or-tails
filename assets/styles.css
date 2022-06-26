@@ -1,0 +1,10 @@
+input{
+    border: none;
+    border-bottom: 2px solid blue;
+    outline: none;
+    font-size: 0.9em;
+}
+input:focus{
+    border: none;
+    border-bottom: 2px solid purple;
+}
